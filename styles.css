@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+}
+
+.title {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#card {
+    background-color: yellow;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.input-group {
+    margin-left: 350px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+p {
+    margin-left: 350px;
+    margin-right: auto;
+    font-size: 50px;
+}
